@@ -1,0 +1,17 @@
+body{
+     background-color:lightyellow ;
+}
+h1{
+    font-weight: bold;
+    color: brown;
+    font-style: italic;
+    font-size: 60px;
+    text-align: center;
+    font-style: normal;
+}
+p{
+   font-size: 30px;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-style: italic;
+   text-align: center;
+}
